@@ -15,6 +15,6 @@ This project analyzes the Medical Cost Personal Dataset to explore how demograph
 Conducted simple data wrangling and data cleaning:
 - 
 
-📌 Python Script: [Notebook](https://github.com/Janinayy-stack/python-data-analysis/blob/main/README4.md)
+📌 Python Script: [Notebook](https://github.com/Janinayy-stack/python-data-analysis/blob/main/Medical%20Cost%20Personal%20Datasets.ipynb)
 
 ## 📊 Visualization
