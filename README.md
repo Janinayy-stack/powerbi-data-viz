@@ -24,4 +24,7 @@ Conducted simple data wrangling and data cleaning:
 ## 📊 Visualization
 Created an interactive Power BI dashboard to visualize key insights from the cleaned dataset.
 
-Power BI:
+Power BI: 
+
+<img width="1038" height="799" alt="image" src="https://github.com/user-attachments/assets/c2ab0a0e-8dbe-46f6-b8c7-5b1b21ee9c94" />
+
