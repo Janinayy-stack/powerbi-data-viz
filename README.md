@@ -13,8 +13,15 @@ This project analyzes the Medical Cost Personal Dataset to explore how demograph
 
 ## ✏️ Data Wrangling
 Conducted simple data wrangling and data cleaning:
-- 
+1. Missing Values: Checked for missing values. No missing values were found.
+2. Duplicate Rows: Identified and removed 1 duplicate row.
+3. Data Types: Checked the data types of numerical columns (age, children, and charges
+4. Categorical Values: Verified consistency in sex, smoker, and region.
+5. Numerical Ranges: Checked the ranges of numerical variables for implausible values.
 
 📌 Python Script: [Notebook](https://github.com/Janinayy-stack/python-data-analysis/blob/main/Medical%20Cost%20Personal%20Datasets.ipynb)
 
 ## 📊 Visualization
+Created an interactive Power BI dashboard to visualize key insights from the cleaned dataset.
+
+Power BI:
