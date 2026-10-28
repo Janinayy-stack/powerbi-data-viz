@@ -1,15 +1,15 @@
-# 👜 Customer Analytics Dashboard
+# 🌎 World Economic Indicators
 
 ## 📚 About Data
-This project analyzes the Customer Dataset to explore customer demographics, loyalty tiers, regional distribution, and registration trends to better understand the customer base.
+This project analyzes World Economic Indicators to explore economic performance, human development, and trends across countries over time.
 
 ## 📌 Task
-Analyze customer data to understand customer demographics, loyalty tier distribution, and regional representation, providing insights into the overall customer base.
+Analyze global economic and human development indicators to identify trends, compare countries and regions, and explore relationships between economic performance and quality of life.
 
 ## 📊 Dataset
-- Lotus Retail Dataset from [Kaggle](https://www.kaggle.com/datasets/abdelrahmanmahmoud22/lotus-group-retail-star-schema-bi?select=dim_employees.csv)
-- Data files: Multiple dimension tables and fact tables representing different aspects of the retail business.
-- The dataset will be used to explore relationships between customers, products, employees, and sales transactions, depending on the available tables and fields.
+- World Economic Indicators from [Maven Analytics](https://mavenanalytics.io/data-playground/world-economic-indicators)
+- Coverage: World Bank economic indicators from 1960–2018, supplemented by UN Human Development Index (HDI) data from 1990–2021.
+- Key indicators: GDP per capita, electricity consumption, life expectancy, Human Development Index (HDI), and other measures of economic development, inequality, and environmental impact.
 
 ## ⚙️ Tools
 - SQL: Data cleaning, data quality checks, table joins, and exploratory data analysis. View[SQL Scripts](
